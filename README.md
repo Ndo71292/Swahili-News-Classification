@@ -16,3 +16,5 @@ Kimataifa (International)
 Biashara (Business)
 Michezo (Sports)
 Burudani (Entertainment)
+
+Click to go to main project file https://github.com/Ndo71292/Swahili-News-Classification/blob/main/Swahili%20News%20Classification.ipynb
